@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @0xmilarepa
-- 👀 I’m interested in Data Science, Philosophy of technology, Bitcoin
-- 🌱 I’m currently learning Data Science
-- 📫 How to reach me 0xmilarepa@gmail.com
+i'm an interdisciplinary researcher specialized on the intersections between philosophy & the arts.
+i'm currently learning data science and conducting research on the cultural and philosophical implications of bitcoin, defi and digital assets.
+you can reach me at 0xmilarepa@gmail.com
 
 <!---
 0xmilarepa/0xmilarepa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
