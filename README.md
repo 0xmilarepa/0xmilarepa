@@ -1,4 +1,4 @@
-i'm an interdisciplinary researcher specialized on the intersections between philosophy & the arts.
+i'm an interdisciplinary researcher with an academic background on art and philosophy.
 i'm currently learning data science and conducting research on the cultural and philosophical implications of bitcoin, decentralized finance and digital assets.
 
 you can reach me at 0xmilarepa@gmail.com
